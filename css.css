@@ -1,0 +1,19 @@
+.container{
+  width: 1240px;
+  padding: 20px;
+  margin: 0 auto;
+}
+
+.lucwiy{
+  padding: 10px;
+  background-color: greenyellow;
+  border: 1px solid green;
+}
+
+.gif1{
+  display: none;
+}
+
+.gif2{
+  display: none;
+}
